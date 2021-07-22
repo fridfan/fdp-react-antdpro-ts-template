@@ -1,8 +1,9 @@
 {
-  "name": "ant-design-pro",
-  "version": "5.0.0-beta.3",
+  "name": "{{name}}",
+  "version": "0.1.0",
   "private": true,
-  "description": "An out-of-box UI solution for enterprise applications",
+  "description": "{{description}}",
+  "author": "{{author}}",
   "scripts": {
     "analyze": "cross-env ANALYZE=1 umi build",
     "build": "umi build",
